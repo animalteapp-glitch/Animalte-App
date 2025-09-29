@@ -1,10 +1,10 @@
 name: animalte_app
-description: "Animalte - Professional Drawing & Animation Studio"
+description: Animalte - Professional Drawing & Animation Studio
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
