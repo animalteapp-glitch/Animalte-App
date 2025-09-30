@@ -1,10 +1,10 @@
-name: animalte
-description: Professional Animation & Editing App
+name: animalte_app
+description: Animalte - Professional Drawing & Animation Studio
 publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-sdk: ">=2.18.2 <3.0.0"
+  sdk: ">=2.18.2 <3.0.0"
 
 dependencies:
   flutter:
@@ -12,7 +12,12 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^4.0.3
   animated_text_kit: ^4.2.2
-  audioplayers: ^5.0.0
+  glass_kit: ^2.0.0
+  liquid_swipe: ^3.2.0
+  flutter_vector_icons: ^2.0.0
+  confetti: ^0.7.0
+  audioplayers: ^1.1.1
+  provider: ^6.0.5
 
 dev_dependencies:
   flutter_test:
@@ -22,5 +27,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/
+    - assets/
     - assets/sounds/
+    - assets/icons/
