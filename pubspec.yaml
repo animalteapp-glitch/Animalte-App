@@ -12,13 +12,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^4.0.3
   animated_text_kit: ^4.2.2
-  
-  # Compatible versions for older Dart SDK
-  glassmorphism: ^2.0.0  # GlassKit alternative
-  liquid_swipe: ^2.1.0
+  glass_kit: ^2.0.0
+  liquid_swipe: ^3.2.0
   flutter_vector_icons: ^2.0.0
   confetti: ^0.7.0
-  audioplayers: ^1.1.1  # Ye version 2.18.2+ ke liye compatible hai
+  audioplayers: ^1.1.1
   provider: ^6.0.5
 
 dev_dependencies:
