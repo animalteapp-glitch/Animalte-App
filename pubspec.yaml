@@ -4,25 +4,20 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.18.2 <3.0.0"
+  sdk: ">=2.10.2 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
-  google_fonts: ^4.0.3
-  animated_text_kit: ^4.2.2
-  glass_kit: ^2.0.0
-  liquid_swipe: ^3.2.0
-  flutter_vector_icons: ^2.0.0
-  confetti: ^0.7.0
-  audioplayers: ^1.1.1
+  google_fonts: ^2.3.0
   provider: ^6.0.5
+  # audioplayers HATA DO - Zapp.run compatible nahi hai
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^1.0.0
 
 flutter:
   uses-material-design: true
