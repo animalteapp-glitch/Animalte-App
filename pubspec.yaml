@@ -10,12 +10,13 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # 🎨 UI/UX & Design (Zapp.run compatible only)
+  # 🎨 UI/UX & Design
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
   animated_text_kit: ^4.2.2
   confetti: ^0.7.0
   shimmer: ^2.0.0
+  animations: ^2.0.7
   
   # 🛠️ State Management
   provider: ^6.0.5
@@ -29,6 +30,7 @@ dependencies:
   
   # 📱 Device Features
   url_launcher: ^6.1.10
+  audioplayers: ^5.2.1
 
 dev_dependencies:
   flutter_test:
@@ -38,7 +40,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   
-  # Assets (ONLY valid sections)
   assets:
     - assets/images/
     - assets/icons/
+    - assets/sounds/
+    - assets/animations/
