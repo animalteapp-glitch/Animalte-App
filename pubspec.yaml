@@ -10,22 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # 🔐 FIREBASE AUTH
-  firebase_core: ^1.24.0
-  firebase_auth: ^3.11.0
-  google_sign_in: ^5.4.0
-  
-  # 🗄️ FIRESTORE & STORAGE
-  cloud_firestore: ^3.5.0
-  firebase_storage: ^10.3.0
-  
-  # 📱 ADMOB
-  google_mobile_ads: ^2.3.0
-  
-  # 🎨 UI PACKAGES
+  # 🔐 ONLY ESSENTIAL PACKAGES (Zapp.run compatible)
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
   provider: ^6.0.5
+  shared_preferences: ^2.0.15
 
 dev_dependencies:
   flutter_test:
