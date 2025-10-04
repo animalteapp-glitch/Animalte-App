@@ -10,6 +10,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+# 🎞️ ANIMATION & TIMELINE PACKAGES
+  flare_flutter: ^3.0.6
+  lottie: ^2.3.2
+  spritewidget: ^0.9.29
+  animation: ^1.1.0
+  simple_animations: ^5.0.0
+  animator: ^3.1.1
+
   # 🔤 UI & Fonts
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
@@ -56,11 +64,6 @@ vector_math: ^2.1.4
 flutter_colorpicker: ^1.0.3
 color_picker: ^1.0.0
 palette_generator: ^0.3.2
-
-# ⏱️ TIMELINE & KEYFRAMES
-timeline_tile: ^0.6.0
-flutter_staggered_animations: ^0.1.2
-animated_widgets: ^1.0.0
 
  dev_dependencies:
    flutter_test:
