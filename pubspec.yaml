@@ -61,7 +61,8 @@ flutter:
     - assets/lottie/
     - assets/flare/
     - assets/vectors/
-
+    - assets/brushes/
+    - assets/textures/
 # Fonts
   fonts:
     - family: Poppins
