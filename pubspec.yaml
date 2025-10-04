@@ -15,12 +15,6 @@ dependencies:
   google_fonts: ^3.0.1
   provider: ^6.0.5
   shared_preferences: ^2.0.15
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-# 🛠️ State Management
-  provider: ^6.0.5
   
   # 💾 Storage & Data
   shared_preferences: ^2.2.2
