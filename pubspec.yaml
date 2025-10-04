@@ -32,7 +32,7 @@ dependencies:
 
 # 🎭 Animation & Graphics
   lottie: ^2.3.2
-  flare_flutter: ^3.0.7
+  flare_flutter: ^3.0.0
   spritewidget: ^2.0.0
   drawing_animation: ^1.0.1
 
