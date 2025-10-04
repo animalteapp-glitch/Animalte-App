@@ -27,7 +27,7 @@ dependencies:
   hive: ^2.2.3
   path_provider: ^2.0.15
 
- #GEMINI AI
+ #GEMINI AI (Flutter 2.x compatible)
   google_generative_ai: ^0.0.4
  
   # 🌐 Networking
