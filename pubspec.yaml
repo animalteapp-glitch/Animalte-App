@@ -10,12 +10,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-# 🎞️ ANIMATION & TIMELINE PACKAGES
-  flare_flutter: ^3.0.6
-  lottie: ^2.3.2
-  spritewidget: ^0.9.29
-  animation: ^1.1.0
-
   # 🔤 UI & Fonts
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
