@@ -18,8 +18,8 @@ dependencies:
   shimmer: ^3.0.0
 
 # FIRESTORE & STORAGE
-cloud_firestore: ^4.9.2
-firebase_storage: ^11.2.0
+cloud_firestore: ^5.6.6
+firebase_storage: ^13.0.0
 
   # 🛠️ State Management
   provider: ^6.0.5
