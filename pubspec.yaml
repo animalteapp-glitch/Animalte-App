@@ -27,6 +27,11 @@ dependencies:
   # 🌐 Networking
   http: ^0.13.5
 
+# 🔧 Utilities
+  permission_handler: ^10.3.0
+  connectivity_plus: ^4.0.2
+  package_info_plus: ^4.2.0
+
   # 📱 Device Features
   url_launcher: ^6.1.10
 
