@@ -22,7 +22,7 @@ dependencies:
   # 🤖 GEMINI AI
   google_generative_ai: ^0.2.1
   
-  # 📱 ADMOB - YEH VERSION USE KARO
+  # 📱 ADMOB
   google_mobile_ads: ^3.1.0
   
   # 🎨 UI PACKAGES
@@ -40,10 +40,4 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
-
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/images/
-    - assets/icons/
+  flutter_lints: ^2.0.0  # YEH CHANGE KARO
