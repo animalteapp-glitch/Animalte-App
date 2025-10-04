@@ -63,12 +63,6 @@ flutter:
         - asset: assets/fonts/Roboto-Bold.ttf
           weight: 700
 
-  # Native Splash Screen
-  flutter_native_splash:
-    color: "#000000"
-    image: assets/images/splash.png
-    branding: assets/images/logo.png
-  
   # App Icons
   flutter_icons:
     android: true
