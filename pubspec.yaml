@@ -30,6 +30,12 @@ dependencies:
   # 🌐 Networking
   http: ^0.13.5
 
+# 🎭 Animation & Graphics
+  lottie: ^2.3.2
+  flare_flutter: ^3.0.7
+  spritewidget: ^2.0.0
+  drawing_animation: ^1.0.1
+
 # 🔧 Utilities
   permission_handler: ^10.3.0
   connectivity_plus: ^4.0.2
