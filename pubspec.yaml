@@ -19,6 +19,27 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+# 🛠️ State Management
+  provider: ^6.0.5
+  
+  # 💾 Storage & Data
+  shared_preferences: ^2.2.2
+  path_provider: ^2.0.15
+  
+  # 🌐 Networking
+  http: ^0.13.5
+  
+  # 📱 Device Features
+  url_launcher: ^6.1.10
+  audioplayers: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
 
 assets:
     - assets/images/
