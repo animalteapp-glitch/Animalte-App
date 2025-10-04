@@ -76,6 +76,9 @@ flutter:
     - assets/vectors/
     - assets/brushes/
     - assets/textures/
+    - assets/animations/
+    - assets/characters/
+    - assets/backgrounds/
 # Fonts
   fonts:
     - family: Poppins
