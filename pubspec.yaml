@@ -4,9 +4,18 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  ">=2.18.0 <3.0.0"
+  sdk: ">=2.18.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
+  # 🔐 ONLY ESSENTIAL PACKAGES (Zapp.run compatible)
+  cupertino_icons: ^1.0.2
+  google_fonts: ^3.0.1
+  provider: ^6.0.5
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
