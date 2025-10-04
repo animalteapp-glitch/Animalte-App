@@ -4,40 +4,23 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: ">=2.19.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  # 🔐 AUTHENTICATION (Compatible versions)
-  firebase_core: ^1.24.0
-  firebase_auth: ^3.11.0
-  google_sign_in: ^5.4.0
+  # 🔐 AUTHENTICATION - YEH VERSION USE KARO
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.18.0
+  google_sign_in: ^6.1.5
   
-  # 🗄️ FIRESTORE & STORAGE
-  cloud_firestore: ^3.5.0
-  firebase_storage: ^10.3.0
-  
-  # 🤖 GEMINI AI - HATA DIYA (conflict de raha tha)
-  # google_generative_ai: ^0.2.1
-  
-  # 📱 ADMOB - HATA DIYA (conflict de raha tha)
-  # google_mobile_ads: ^3.1.0
-  
-  # 🎨 UI PACKAGES (Compatible versions)
+  # 🎨 UI PACKAGES - SIMPLE RAKHO
   cupertino_icons: ^1.0.2
-  google_fonts: ^3.0.1
-  animated_text_kit: ^4.2.2
-  confetti: ^0.7.0
-  shimmer: ^2.0.0
+  google_fonts: ^4.0.4
   provider: ^6.0.5
-  shared_preferences: ^2.0.15
-  path_provider: ^2.0.11
-  http: ^0.13.5
-  url_launcher: ^6.1.7
+  shared_preferences: ^2.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0  # YEH VERSION USE KARO
