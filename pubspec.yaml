@@ -53,7 +53,7 @@ dependencies:
   vector_math: ^2.1.4
 
   # 🖌️ BRUSHES & TOOLS
-  flutter_colorpicker: ^1.0.3
+  flutter_colorpicker: ^1.0.0
   color_picker: ^1.0.0
   palette_generator: ^1.0.0
 
