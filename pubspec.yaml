@@ -10,27 +10,32 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # 🎨 UI/UX & Design
+  # 🔐 AUTHENTICATION
+  firebase_core: ^2.15.1
+  firebase_auth: ^4.14.1
+  google_sign_in: ^6.1.1
+  
+  # 🗄️ FIRESTORE & STORAGE
+  cloud_firestore: ^4.9.5
+  firebase_storage: ^11.2.1
+  
+  # 🤖 GEMINI AI
+  google_generative_ai: ^0.2.0
+  
+  # 📱 ADMOB
+  google_mobile_ads: ^2.5.0
+  
+  # 🎨 UI PACKAGES
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
   animated_text_kit: ^4.2.2
   confetti: ^0.7.0
   shimmer: ^2.0.0
-  animations: ^2.0.7
-  
-  # 🛠️ State Management
   provider: ^6.0.5
-  
-  # 💾 Storage & Data
-  shared_preferences: ^2.2.2
+  shared_preferences: ^2.0.15
   path_provider: ^2.0.15
-  
-  # 🌐 Networking
   http: ^0.13.5
-  
-  # 📱 Device Features
   url_launcher: ^6.1.10
-  audioplayers: ^5.2.1
 
 dev_dependencies:
   flutter_test:
@@ -39,9 +44,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  
   assets:
     - assets/images/
     - assets/icons/
-    - assets/sounds/
-    - assets/animations/
