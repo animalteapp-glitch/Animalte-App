@@ -58,8 +58,8 @@ color_picker: ^1.0.0
 palette_generator: ^0.3.2
 
 # 🎛️ UI CONTROLS & SLIDERS
-flutter_colorpicker: ^1.0.3
-syncfusion_flutter_sliders: ^19.3.56
+flutter_colorpicker: ^1.0.0
+syncfusion_flutter_sliders: ^19.3.55
 rounded_loading_button: ^1.0.0
 
  dev_dependencies:
