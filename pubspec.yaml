@@ -26,7 +26,6 @@ dependencies:
 
   # 📱 Device Features
   url_launcher: ^6.1.10
-  audioplayers: ^5.2.1
 
 dev_dependencies:
   flutter_test:
