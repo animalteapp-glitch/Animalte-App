@@ -19,8 +19,8 @@ dependencies:
   cloud_firestore: ^3.5.0
   firebase_storage: ^10.3.0
   
-  # 🤖 GEMINI AI
-  google_generative_ai: ^0.1.1
+  # 🤖 GEMINI AI - YEH VERSION USE KARO
+  google_generative_ai: ^0.1.0
   
   # 📱 ADMOB
   google_mobile_ads: ^2.3.0
