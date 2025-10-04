@@ -19,23 +19,13 @@ dependencies:
   cloud_firestore: ^3.5.0
   firebase_storage: ^10.3.0
   
-  # 🤖 GEMINI AI - YEH VERSION USE KARO
-  google_generative_ai: ^0.1.0
-  
   # 📱 ADMOB
   google_mobile_ads: ^2.3.0
   
   # 🎨 UI PACKAGES
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
-  animated_text_kit: ^4.2.2
-  confetti: ^0.7.0
-  shimmer: ^2.0.0
   provider: ^6.0.5
-  shared_preferences: ^2.0.15
-  path_provider: ^2.0.11
-  http: ^0.13.5
-  url_launcher: ^6.1.7
 
 dev_dependencies:
   flutter_test:
