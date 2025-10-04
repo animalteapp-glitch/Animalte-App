@@ -10,19 +10,20 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # 🔐 ONLY ESSENTIAL PACKAGES (Zapp.run compatible)
+  # 🔤 UI & Fonts
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
+
+  # 🛠️ State Management
   provider: ^6.0.5
-  shared_preferences: ^2.0.15
-  
+
   # 💾 Storage & Data
   shared_preferences: ^2.2.2
   path_provider: ^2.0.15
-  
+
   # 🌐 Networking
   http: ^0.13.5
-  
+
   # 📱 Device Features
   url_launcher: ^6.1.10
   audioplayers: ^5.2.1
@@ -35,7 +36,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-assets:
+  assets:
     - assets/images/
     - assets/icons/
     - assets/sounds/
