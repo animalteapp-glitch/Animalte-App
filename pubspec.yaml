@@ -43,6 +43,9 @@ flutter:
     - assets/icons/
     - assets/sounds/
     - assets/animations/
+    - assets/lottie/
+    - assets/flare/
+    - assets/vectors/
 
 # Fonts
   fonts:
@@ -62,8 +65,3 @@ flutter:
           weight: 500
         - asset: assets/fonts/Roboto-Bold.ttf
           weight: 700
-
-  # App Icons
-  flutter_icons:
-    android: true
-    ios: true
