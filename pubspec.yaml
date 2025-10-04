@@ -27,12 +27,11 @@ dependencies:
   hive: ^2.2.3
   path_provider: ^2.0.15
 
+ #GEMINI AI
+  google_generative_ai: ^0.2.1
+ 
   # 🌐 Networking
   http: ^0.13.5
-
-# 🎭 Animation & Graphics
-  lottie: ^3.1.2
-  drawing_animation: ^1.0.1
 
 # 🔧 Utilities
   permission_handler: ^10.3.0
