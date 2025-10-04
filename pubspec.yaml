@@ -43,6 +43,10 @@ dependencies:
 
   # 📱 Device Features
   url_launcher: ^6.1.10
+ 
+  # 🌟 EFFECTS & ANIMATIONS
+  confetti: ^0.7.0
+  simple_animations: ^5.0.0
 
 dev_dependencies:
   flutter_test:
