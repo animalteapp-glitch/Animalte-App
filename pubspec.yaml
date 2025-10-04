@@ -24,6 +24,7 @@ dependencies:
 
   # 💾 Storage & Data
   shared_preferences: ^2.2.2
+  hive: ^2.2.3
   path_provider: ^2.0.15
 
   # 🌐 Networking
