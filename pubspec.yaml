@@ -69,8 +69,6 @@ uses-material-design: true
     - assets/brushes/
     - assets/textures/
     - assets/animations/
-    - assets/characters/
-    - assets/backgrounds/
 
 # Fonts
   fonts:
