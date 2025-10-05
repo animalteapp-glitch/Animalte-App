@@ -9,27 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  # 🔤 UI & Fonts
-  cupertino_icons: ^1.0.2
-  google_fonts: ^3.0.1
-  animated_text_kit: ^4.2.2
-  confetti: ^0.7.0
-  shimmer: ^3.0.0
-
-# 🔐 AUTHENTICATION
-  firebase_core: ^2.15.0
-  firebase_auth: ^4.13.0
-  google_sign_in: ^6.1.4
-  flutter_facebook_auth: ^3.5.0
-  
-  # 🛠️ State Management
-  provider: ^6.0.5
-
-  # 💾 Storage & Data
-  shared_preferences: ^2.2.2
-  hive: ^2.2.3
-  path_provider: ^2.0.15
  
 
   # 📱 Device Features
