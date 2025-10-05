@@ -31,8 +31,6 @@ dependencies:
   hive: ^2.2.3
   path_provider: ^2.0.15
  
-  # 🌐 Networking
-  http: ^0.13.
 
   # 📱 Device Features
   url_launcher: ^6.1.10
@@ -43,11 +41,7 @@ painter: ^1.0.0
 image: ^3.2.2
 image_gallery_saver: ^2.1.1
 path_drawing: ^0.5.1
-vector_math: ^2.1.4
-
-# 🖌️ BRUSHES & TOOLS
-color_picker: ^1.0.0
-palette_generator: ^0.3.2
+vector_math: ^2.1.
 
  dev_dependencies:
    flutter_test:
