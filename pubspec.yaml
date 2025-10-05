@@ -14,7 +14,6 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
   animated_text_kit: ^4.2.2
-  liquid_swipe: ^3.0.0
   confetti: ^0.7.0
   shimmer: ^3.0.0
 
@@ -52,7 +51,6 @@ path_drawing: ^0.5.1
 vector_math: ^2.1.4
 
 # 🖌️ BRUSHES & TOOLS
-flutter_colorpicker: ^1.0.3
 color_picker: ^1.0.0
 palette_generator: ^0.3.2
 
