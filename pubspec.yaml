@@ -16,7 +16,6 @@ assets:
     - assets/sounds/
     - assets/animations/
     - assets/lottie/
-    - assets/flare/
 
 # Fonts
   fonts:
