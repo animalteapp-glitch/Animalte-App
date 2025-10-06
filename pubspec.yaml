@@ -41,6 +41,12 @@ image_gallery_saver: ^2.0.1
 path_drawing: ^0.5.0
 vector_math: ^2.1.2
 
+# 🎨 DRAWING & GRAPHICS
+drawing_board: ^0.2.0
+vector_math: ^2.1.2
+path_drawing: ^0.5.0
+image: ^3.1.1
+
 # ⏱️ TIMELINE & KEYFRAMES
 timeline_tile: ^0.7.0
 flutter_staggered_animations: ^0.1.3
