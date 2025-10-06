@@ -10,6 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # 🎞️ ANIMATION CORE
+   lottie: ^2.3.2
+   simple_animations: ^5.0.0
+   drawing_board: ^0.2.0
+
   # 🔤 UI & Fonts
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
