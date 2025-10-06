@@ -22,3 +22,11 @@ dependencies:
   firebase_auth: ^4.13.0
   google_sign_in: ^6.1.4
   flutter_facebook_auth: ^3.5.0
+
+# 🛠️ State Management
+  provider: ^6.0.5
+
+  # 💾 Storage & Data
+  shared_preferences: ^2.2.2
+  hive: ^2.2.3
+  path_provider: ^2.0.15
