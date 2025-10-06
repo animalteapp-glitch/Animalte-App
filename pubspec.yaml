@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
- # 💾 STORAGE & EXPORT
+  # 💾 STORAGE & EXPORT
   shared_preferences: ^2.0.15
   path_provider: ^2.0.11
   file_picker: ^4.6.1
