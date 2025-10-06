@@ -17,7 +17,7 @@ dependencies:
   confetti: ^0.7.0
   shimmer: ^3.0.0
 
-  # 🎞️ ANIMATION & TIMELINE PACKAGES
+# 🎞️ ANIMATION & TIMELINE PACKAGES
   flare_flutter: ^2.0.6
   lottie: ^2.1.0
   spritewidget: ^0.9.28
