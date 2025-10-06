@@ -10,6 +10,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+# 💾 STORAGE & EXPORT
+shared_preferences: ^2.0.15
+path_provider: ^2.0.11
+file_picker: ^4.6.1
+image_gallery_saver: ^2.0.1
+video_player: ^2.4.5
+gallery_saver: ^2.3.2
+ 
   # 🔤 UI & Fonts
   cupertino_icons: ^1.0.2
   google_fonts: ^3.0.1
@@ -61,14 +69,6 @@ equatable: ^2.0.5
 
 flutter:
 uses-material-design: true
-
-# 💾 STORAGE & EXPORT
-shared_preferences: ^2.0.15
-path_provider: ^2.0.11
-file_picker: ^4.6.1
-image_gallery_saver: ^2.0.1
-video_player: ^2.4.5
-gallery_saver: ^2.3.2
 
 assets:
   - assets/images/
