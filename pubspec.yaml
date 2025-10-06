@@ -59,6 +59,12 @@ flutter_colorpicker: ^1.0.3
 syncfusion_flutter_sliders: ^19.4.56
 rounded_loading_button: ^1.0.20
 
+# 💾 EXPORT & RENDER
+video_export: ^0.2.0
+gif_encoder: ^0.1.0
+image_sequence: ^0.1.1
+ffmpeg_kit_flutter: ^5.0.0
+
 # 🎞️ ANIMATION CORE
 lottie: ^2.2.0
 simple_animations: ^4.2.0
