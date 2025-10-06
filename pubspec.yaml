@@ -60,6 +60,5 @@ uses-material-design: true
     - assets/animations/
     - assets/lottie/
     - assets/flare/
-    - assets/vectors/
     - assets/brushes/
     - assets/textures/
