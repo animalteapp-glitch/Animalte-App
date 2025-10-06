@@ -19,11 +19,11 @@ dependencies:
 
   # 🎞️ ANIMATION & TIMELINE PACKAGES
   flare_flutter: ^2.0.6
-  lottie: ^2.2.0
-  spritewidget: ^0.9.29
+  lottie: ^2.1.0
+  spritewidget: ^0.9.28
   animation: ^1.1.0
   simple_animations: ^4.2.0
-  animator: ^2.1.0
+  animator: ^1.1.0
 
 # 🔐 AUTHENTICATION
   firebase_core: ^2.15.0
