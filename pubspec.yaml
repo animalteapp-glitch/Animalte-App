@@ -90,6 +90,10 @@ assets:
   - assets/vectors/
   - assets/brushes/
   - assets/textures/
+  - assets/effects/
+  - assets/presets/
+  - assets/fonts/
+  - assets/templates/
 
 fonts:
     - family: Poppins
