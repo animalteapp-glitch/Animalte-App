@@ -64,8 +64,7 @@ assets:
   - assets/brushes/
   - assets/textures/
 
-# Fonts
-  fonts:
+fonts:
     - family: Poppins
       fonts:
         - asset: assets/fonts/Poppins-Bold.ttf
@@ -74,6 +73,7 @@ assets:
           weight: 600
         - asset: assets/fonts/Poppins-Medium.ttf
           weight: 500
+
     - family: Roboto
       fonts:
         - asset: assets/fonts/Roboto-Regular.ttf
