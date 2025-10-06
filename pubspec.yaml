@@ -21,7 +21,7 @@ dependencies:
   flare_flutter: ^2.0.6
   lottie: ^2.1.0
   spritewidget: ^0.9.28
-  animation: ^1.1.0
+  animation: ^1.0.0
   simple_animations: ^4.2.0
   animator: ^1.0.0
 
