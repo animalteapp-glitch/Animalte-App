@@ -26,14 +26,6 @@ dependencies:
 # 🛠️ State Management
   provider: ^6.0.5
 
-# 🎞️ ANIMATION & TIMELINE PACKAGES
-flare_flutter: ^2.0.6
-lottie: ^2.2.0
-spritewidget: ^0.9.29
-animation: ^1.1.0
-simple_animations: ^4.2.0
-animator: ^2.1.0
- 
   # 💾 Storage & Data
   shared_preferences: ^2.2.2
   hive: ^2.2.3
@@ -41,6 +33,14 @@ animator: ^2.1.0
 
 # 🌐 Networking
 http: ^0.13.5
+
+# 🎞️ ANIMATION & TIMELINE PACKAGES
+flare_flutter: ^2.0.6
+lottie: ^2.2.0
+spritewidget: ^0.9.29
+animation: ^1.1.0
+simple_animations: ^4.2.0
+animator: ^2.1.0
 
 # 📱 Device Features
 url_launcher: ^6.0.12
