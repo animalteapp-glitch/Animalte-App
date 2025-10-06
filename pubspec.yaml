@@ -55,6 +55,10 @@ dev_dependencies:
      sdk: flutter
    flutter_lints: ^2.0.0
 
+# 🔧 UTILITIES
+get: ^4.6.5
+equatable: ^2.0.5
+
 # 💾 STORAGE & EXPORT
 shared_preferences: ^2.0.15
 path_provider: ^2.0.11
@@ -62,10 +66,6 @@ file_picker: ^4.6.1
 image_gallery_saver: ^2.0.1
 video_player: ^2.4.5
 gallery_saver: ^2.3.2
-
-# 🔧 UTILITIES
-get: ^4.6.5
-equatable: ^2.0.5
 
 flutter:
 uses-material-design: true
