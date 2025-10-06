@@ -9,12 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-# 🎨 DRAWING & GRAPHICS
-drawing_board: ^0.2.0
-vector_math: ^2.1.2
-path_drawing: ^0.5.0
-image: ^3.1.1
  
   # 🔤 UI & Fonts
   cupertino_icons: ^1.0.2
@@ -61,6 +55,12 @@ rounded_loading_button: ^1.0.20
 lottie: ^2.2.0
 simple_animations: ^4.2.0
 drawing_board: ^0.2.0
+
+# 🎨 DRAWING & GRAPHICS
+drawing_board: ^0.2.0
+vector_math: ^2.1.2
+path_drawing: ^0.5.0
+image: ^3.1.1
 
 # 🖌️ BRUSHES & TOOLS
 color_picker: ^1.0.0
