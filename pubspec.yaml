@@ -36,7 +36,6 @@ dependencies:
 
   # 📱 Device Features
   url_launcher: ^6.1.10
-@@ -43,48 +41,44 @@
 image: ^3.2.2
 image_gallery_saver: ^2.1.1
 path_drawing: ^0.5.1
