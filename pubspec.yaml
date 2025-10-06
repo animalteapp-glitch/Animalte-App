@@ -56,8 +56,8 @@ dev_dependencies:
    flutter_lints: ^2.0.0
 
 # 🔧 UTILITIES
-  get: ^4.6.5
-  equatable: ^2.0.5
+get: ^4.6.5
+equatable: ^2.0.5
 
 flutter:
 uses-material-design: true
