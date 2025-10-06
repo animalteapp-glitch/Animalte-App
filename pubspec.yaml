@@ -13,7 +13,6 @@ dependencies:
 assets:
     - assets/images/
     - assets/icons/
-    - assets/sounds/
 
 # Fonts
   fonts:
