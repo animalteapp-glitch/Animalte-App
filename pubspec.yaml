@@ -76,13 +76,6 @@ matrix_4: ^1.0.0
 perspective: ^0.1.0
 camera_view: ^0.1.0
 
-# 🎨 EFFECTS & FILTERS
-image: ^3.1.1
-image_effects: ^0.2.0
-color_filter: ^1.0.0
-shader: ^0.0.9
-glitch_effect: ^0.1.0
-
 # 🎵 AUDIO & SOUND
 audio_waveforms: ^0.2.0
 just_audio: ^0.9.18
