@@ -77,7 +77,6 @@ dependencies:
   # 🎥 CAMERA / 3D / TRANSFORMS
   transformations: ^1.0.0
   matrix_4: ^1.0.0
-  perspective: ^0.1.0
   camera: ^0.10.5
 
   # 🎵 AUDIO / SOUND
