@@ -74,8 +74,7 @@ dependencies:
   gif_encoder: ^0.1.0
   image_sequence: ^0.1.1
 
-  # 🎥 CAMERA / 3D / TRANSFORMS
-  transformations: ^1.0.0
+  # 🎥 CAMERA / 3D / TRANSFORMR
   camera: ^0.10.5
 
   # 🎵 AUDIO / SOUND
