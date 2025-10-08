@@ -1,7 +1,6 @@
 name: animalte_app
-description: "Animalte - Next Generation Animation Studio"
+description: Animalte - Next Generation Animation Studio
 publish_to: 'none'
-
 version: 1.0.0+1
 
 environment:
@@ -11,118 +10,109 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # 🌟 CORE UI / MATERIAL
-  cupertino_icons: ^1.0.2
-  google_fonts: ^3.0.1
-  get: ^4.6.5
-  provider: ^6.0.5
-  equatable: ^2.0.5
-
-  # 🎞️ ANIMATION & VISUALS
+  # 🎞️ ANIMATION & TIMELINE PACKAGES
   flare_flutter: ^2.0.6
-  lottie: ^2.2.0
+  lottie: ^2.1.0
   simple_animations: ^4.2.0
   animator: ^1.0.0
   animated_widgets: ^1.0.0
   flame: ^1.2.0
-  flutter_animate: ^4.5.0
-  flutter_staggered_animations: ^1.1.1
+
+ # 🔤 UI & Fonts
+  cupertino_icons: ^1.0.2
+  google_fonts: ^3.0.1
+  animated_text_kit: ^4.2.2
   confetti: ^0.7.0
   shimmer: ^3.0.0
 
-  # 🖌️ DRAWING & TOOLS
-  drawing_board: ^0.2.0
-  flutter_colorpicker: ^1.0.3
-  palette_generator: ^0.3.2
-  color_picker: ^1.0.0
-
-  # 🔤 TEXT / FONTS / ANIMATION TEXT
-  animated_text_kit: ^4.2.2
-
-  # 🔐 AUTHENTICATION (Firebase + Social)
+# 🔐 AUTHENTICATION
   firebase_core: ^2.15.0
   firebase_auth: ^4.13.0
   google_sign_in: ^6.1.4
   flutter_facebook_auth: ^3.5.0
 
-  # 💾 LOCAL STORAGE & CACHING
+# 🛠️ State Management
+  provider: ^6.0.5
+
+  # 💾 Storage & Data
   shared_preferences: ^2.2.2
   hive: ^2.2.3
   path_provider: ^2.0.15
 
-  # 🌐 NETWORKING & API
-  http: ^0.13.5
-  dio: ^5.3.3
+# 🌐 Networking
+http: ^0.13.5
 
-  # 🎛️ CONTROLS / UI ELEMENTS
-  syncfusion_flutter_sliders: ^19.4.56
-  rounded_loading_button: ^1.0.20
+# 📱 Device Features
+url_launcher: ^6.0.12
+image: ^3.1.1
+image_gallery_saver: ^2.0.1
+path_drawing: ^0.5.0
+vector_math: ^2.1.2
 
-  # 📱 DEVICE FEATURES
-  url_launcher: ^6.1.10
-  image: ^3.1.1
-  image_gallery_saver: ^2.0.1
-  path_drawing: ^0.5.0
-  vector_math: ^2.1.2
+# ⏱️ TIMELINE & KEYFRAMES
+timeline_tile: ^0.7.0
+flutter_staggered_animations: ^0.1.3
+animated_widgets: ^1.0.0
 
-  # ⏱️ TIMELINE / KEYFRAMES
-  timeline_tile: ^0.7.0
+# 🎛️ UI CONTROLS & SLIDERS
+flutter_colorpicker: ^1.0.3
+syncfusion_flutter_sliders: ^19.4.56
+rounded_loading_button: ^1.0.20
 
-  # 💾 EXPORT / RENDER / MEDIA
-  ffmpeg_kit_flutter: ^5.0.0
-  video_export: ^0.2.0
-  gif_encoder: ^0.1.0
-  image_sequence: ^0.1.1
+# 💾 EXPORT & RENDER
+video_export: ^0.2.0
+gif_encoder: ^0.1.0
+image_sequence: ^0.1.1
+ffmpeg_kit_flutter: ^5.0.0
 
-  # 🎥 CAMERA / 3D / TRANSFORMR
-  camera: ^0.10.5
+# 🎞️ ANIMATION CORE
+lottie: ^2.2.0
+simple_animations: ^4.2.0
+drawing_board: ^0.2.0
 
-  # 🎵 AUDIO / SOUND
-  just_audio: ^0.9.18
+# 🔧 TRANSFORM & 3D
+transformations: ^1.0.0
+matrix_4: ^1.0.0
+perspective: ^0.1.0
+camera_view: ^0.1.0
 
-  # 🤖 AI / ML (on-device helpers)
-  tflite_flutter: ^0.10.0
-  tflite_flutter_helper: ^0.3.0
-  google_mlkit_image_labeling: ^0.7.0
-  google_mlkit_object_detection: ^0.8.0
+# 🎵 AUDIO & SOUND
+audio_waveforms: ^0.2.0
+just_audio: ^0.9.18
+audio_viz: ^0.1.0
 
-  # 🔧 UTILITIES
-  intl: ^0.18.0
-  uuid: ^3.0.6
-  logger: ^1.3.0
-  connectivity_plus: ^3.0.3
-  device_info_plus: ^9.0.2
-  package_info_plus: ^4.2.0
+# 🖌️ BRUSHES & TOOLS
+color_picker: ^1.0.0
+palette_generator: ^0.3.2
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.0
-  build_runner: ^2.4.6
-  json_serializable: ^6.7.0
-  freezed: ^2.3.2
+   flutter_test:
+     sdk: flutter
+   flutter_lints: ^2.0.0
+
+# 🔧 UTILITIES
+get: ^4.6.5
+equatable: ^2.0.5
 
 flutter:
-  uses-material-design: true
+uses-material-design: true
 
-  assets:
-    - assets/images/
-    - assets/icons/
-    - assets/sounds/
-    - assets/animations/
-    - assets/lottie/
-    - assets/flare/
-    - assets/vectors/
-    - assets/brushes/
-    - assets/textures/
-    - assets/effects/
-    - assets/presets/
-    - assets/fonts/
-    - assets/templates/
-    - assets/models/
-    - assets/backgrounds/
+assets:
+  - assets/images/
+  - assets/icons/
+  - assets/sounds/
+  - assets/animations/
+  - assets/lottie/
+  - assets/flare/
+  - assets/vectors/
+  - assets/brushes/
+  - assets/textures/
+  - assets/effects/
+  - assets/presets/
+  - assets/fonts/
+  - assets/templates/
 
-  fonts:
+fonts:
     - family: Poppins
       fonts:
         - asset: assets/fonts/Poppins-Bold.ttf
