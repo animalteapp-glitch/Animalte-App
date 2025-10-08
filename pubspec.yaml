@@ -79,7 +79,6 @@ dependencies:
   matrix_4: ^1.0.0
   perspective: ^0.1.0
   camera: ^0.10.5
-  camera_view: ^0.1.0
 
   # 🎵 AUDIO / SOUND
   just_audio: ^0.9.18
