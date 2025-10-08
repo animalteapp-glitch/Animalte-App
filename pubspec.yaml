@@ -88,7 +88,7 @@ dependencies:
 
   # 🤖 AI / ML (Future-proof)
   tflite_flutter: ^0.10.0
-  tflite_flutter_helper: ^0.3.3
+  tflite_flutter_helper: ^0.3.1
   google_mlkit_image_labeling: ^0.7.0
   google_mlkit_object_detection: ^0.8.0
 
