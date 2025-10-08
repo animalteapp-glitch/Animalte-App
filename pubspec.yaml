@@ -1,5 +1,5 @@
 name: animalte_app
-description: Animalte - Next Generation Animation Studio
+description: "Animalte - Next Generation Animation Studio"
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -83,11 +83,12 @@ dependencies:
 
   # 🎵 AUDIO / SOUND
   just_audio: ^0.9.18
-  audio_waveforms: ^0.1.0
+  audio_waveforms: ^0.2.0
+  audio_viz: ^0.1.0
 
-  # 🤖 AI / ML (Future-proof)
+  # 🤖 AI / ML (on-device helpers)
   tflite_flutter: ^0.10.0
-  tflite_flutter_helper: ^0.3.1
+  tflite_flutter_helper: ^0.3.3
   google_mlkit_image_labeling: ^0.7.0
   google_mlkit_object_detection: ^0.8.0
 
@@ -124,6 +125,8 @@ flutter:
     - assets/presets/
     - assets/fonts/
     - assets/templates/
+    - assets/models/
+    - assets/backgrounds/
 
   fonts:
     - family: Poppins
