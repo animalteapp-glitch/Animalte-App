@@ -43,12 +43,6 @@ dependencies:
 in_app_purchase: ^3.1.9
 flutter_stripe: ^10.0.0
 
-# 🧩 CORE
-provider: ^6.0.5
-get: ^4.6.5
-equatable: ^2.0.5
-flutter_dotenv: ^5.0.2
-
 # 🌐 Networking
 http: ^0.13.5
 
@@ -79,6 +73,12 @@ ffmpeg_kit_flutter: ^5.0.0
 confetti: ^0.7.0
 animated_text_kit: ^4.2.2
 drawing_board: ^0.2.0
+
+# 🧩 CORE
+provider: ^6.0.5
+get: ^4.6.5
+equatable: ^2.0.5
+flutter_dotenv: ^5.0.2
 
 # 🤖 AI / ML / SMART FEATURES
 tflite_flutter: ^0.10.0
