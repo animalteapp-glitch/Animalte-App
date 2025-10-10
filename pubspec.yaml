@@ -103,6 +103,12 @@ intl: ^0.18.0
 uuid: ^3.0.6
 logger: ^1.3.0
 package_info_plus: ^4.2.0
+intl: ^0.17.0
+uuid: ^3.0.6
+logger: ^1.1.0
+connectivity_plus: ^2.3.5
+device_info_plus: ^4.0.2
+package_info_plus: ^1.4.2
 
 # 🔧 TRANSFORM & 3D
 transformations: ^1.0.0
@@ -131,12 +137,6 @@ dev_dependencies:
 # 🔧 UTILITIES
 get: ^4.6.5
 equatable: ^2.0.5
-intl: ^0.17.0
-uuid: ^3.0.6
-logger: ^1.1.0
-connectivity_plus: ^2.3.5
-device_info_plus: ^4.0.2
-package_info_plus: ^1.4.2
 
 flutter:
 uses-material-design: true
