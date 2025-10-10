@@ -11,10 +11,10 @@ dependencies:
     sdk: flutter
 
   # 🧩 CORE (Zapp.run compatible)
-   provider: ^6.0.5
-   get: ^4.6.5
-   equatable: ^2.0.5
-   flutter_envify: ^2.0.3
+  provider: ^6.0.5
+  get: ^4.6.5
+  equatable: ^2.0.5
+  flutter_envify: ^2.0.3
 
   # 🎞️ ANIMATION & TIMELINE PACKAGES
   flare_flutter: ^2.0.6
