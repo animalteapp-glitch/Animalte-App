@@ -102,10 +102,9 @@ flutter_chat_ui: ^1.7.1
 intl: ^0.18.0
 uuid: ^3.0.6
 logger: ^1.3.0
-package_info_plus: ^4.2.0
-connectivity_plus: ^2.3.5
-device_info_plus: ^4.0.2
-package_info_plus: ^1.4.2
+connectivity_plus: ^2.0.2
+device_info_plus: ^2.1.0
+package_info_plus: ^1.0.6
 
 # 🔧 TRANSFORM & 3D
 transformations: ^1.0.0
