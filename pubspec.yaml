@@ -14,7 +14,10 @@ dependencies:
   flare_flutter: ^2.0.6
   lottie: ^2.1.0
   simple_animations: ^4.2.0
+  confetti: ^0.7.0
+  shimmer: ^3.0.0
   animator: ^1.0.0
+  animated_text_kit: ^4.2.2
   animated_widgets: ^1.0.0
   flame: ^1.2.0
 
