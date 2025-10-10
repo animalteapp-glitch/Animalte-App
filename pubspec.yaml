@@ -70,6 +70,14 @@ confetti: ^0.7.0
 animated_text_kit: ^4.2.2
 drawing_board: ^0.2.0
 
+# 🤖 AI / ML / SMART FEATURES
+tflite_flutter: ^0.10.0
+tflite_flutter_helper: ^0.3.3
+google_mlkit_image_labeling: ^0.7.0
+google_mlkit_object_detection: ^0.8.0
+openai_client: ^0.3.0 # 💬 For AI chat / text generation
+chat_gpt_sdk: ^2.2.4  # 💡 AI ChatBox Feature
+
 # 🔧 TRANSFORM & 3D
 transformations: ^1.0.0
 matrix_4: ^1.0.0
