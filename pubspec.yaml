@@ -26,10 +26,10 @@ dependencies:
   shimmer: ^3.0.0
 
 # 🧩 CORE
- provider: ^6.0.5
- get: ^4.6.5
- equatable: ^2.0.5
- flutter_dotenv: ^5.0.2
+provider: ^6.0.5
+get: ^4.6.5
+equatable: ^2.0.5
+flutter_dotenv: ^5.0.2
 
 # 🔐 AUTHENTICATION
   firebase_core: ^2.15.0
