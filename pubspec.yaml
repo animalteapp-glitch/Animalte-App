@@ -25,12 +25,6 @@ dependencies:
   confetti: ^0.7.0
   shimmer: ^3.0.0
 
-# 🧩 CORE
-provider: ^6.0.5
-get: ^4.6.5
-equatable: ^2.0.5
-flutter_dotenv: ^5.0.2
-
 # 🔐 AUTHENTICATION
   firebase_core: ^2.15.0
   firebase_auth: ^4.13.0
@@ -48,6 +42,12 @@ flutter_dotenv: ^5.0.2
 # 💎 PREMIUM
 in_app_purchase: ^3.1.9
 flutter_stripe: ^10.0.0
+
+# 🧩 CORE (Zapp.run compatible)
+provider: ^6.0.5
+get: ^4.6.5
+equatable: ^2.0.5
+flutter_envify: ^2.0.3
 
 # 🌐 Networking
 http: ^0.13.5
