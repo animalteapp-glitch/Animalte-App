@@ -105,6 +105,12 @@ audio_waveforms: ^0.2.0
 just_audio: ^0.9.18
 audio_viz: ^0.1.0
 
+# 🧩 CORE (Zapp.run compatible)
+provider: ^6.0.5
+get: ^4.6.5
+equatable: ^2.0.5
+flutter_envify: ^2.0.3
+
 # 🖌️ BRUSHES & TOOLS
 color_picker: ^1.0.0
 palette_generator: ^0.3.2
@@ -117,13 +123,6 @@ dev_dependencies:
 # 🔧 UTILITIES
 get: ^4.6.5
 equatable: ^2.0.5
-
-# 🧩 CORE (Zapp.run compatible)
-provider: ^6.0.5
-get: ^4.6.5
-equatable: ^2.0.5
-flutter_envify: ^2.0.3
-
 
 flutter:
 uses-material-design: true
