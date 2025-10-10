@@ -84,11 +84,6 @@ flutter_dotenv: ^5.0.2   # 👉 For API key from .env file
 hive: ^2.2.3
 path_provider: ^2.0.15
 
-# 🕹️ UI / PAGE ANIMATION / SCENE BUILDER
-flutter_staggered_animations: ^1.1.1
-page_transition: ^2.0.0
-rive: ^0.11.1
-
 # 🔧 TRANSFORM & 3D
 transformations: ^1.0.0
 matrix_4: ^1.0.0
@@ -103,6 +98,11 @@ audio_viz: ^0.1.0
 # 🖌️ BRUSHES & TOOLS
 color_picker: ^1.0.0
 palette_generator: ^0.3.2
+
+# 🎬 EXPORT / ENCODE (Zapp-safe subset)
+gif_encoder: ^0.1.0
+image_sequence: ^0.1.1
+image: ^3.1.1
 
 dev_dependencies:
    flutter_test:
