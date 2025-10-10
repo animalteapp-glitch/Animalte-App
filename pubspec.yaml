@@ -105,14 +105,6 @@ audio_waveforms: ^0.2.0
 just_audio: ^0.9.18
 audio_viz: ^0.1.0
 
-# 🧩 CORE (SDK 2.18.0 compatible)
-provider: ^6.0.3
-get: ^4.6.5
-equatable: ^2.0.3
-
-# ⚙️ ENV CONFIG (Old safe alternative to dotenv/envify)
-flutter_config: ^2.0.0
-
 # 🖌️ BRUSHES & TOOLS
 color_picker: ^1.0.0
 palette_generator: ^0.3.2
@@ -121,6 +113,14 @@ dev_dependencies:
    flutter_test:
      sdk: flutter
    flutter_lints: ^2.0.0
+
+# 🧩 CORE (SDK 2.18.0 compatible)
+provider: ^6.0.3
+get: ^4.6.5
+equatable: ^2.0.3
+
+# ⚙️ ENV CONFIG (Old safe alternative to dotenv/envify)
+flutter_config: ^2.0.0
 
 # 🔧 UTILITIES
 get: ^4.6.5
